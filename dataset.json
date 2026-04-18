@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Regional restaurant data for the Fayetteville-Springdale-Rogers (Metro), Arkansas metropolitan area, spanning Fayetteville, Springdale, and Rogers. Captures the competitive landscape across city boundaries within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Fayetteville-Springdale-Rogers (Metro), Arkansas, US",
+  "export_job_id": "35d81428-f39d-4152-9278-a6c61364baee",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 874141,
+  "location_name": "Fayetteville-Springdale-Rogers, AR",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-fayetteville-springdale-rogers-metro-arkansas-us-sample-874141",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/874141/beamstation_874141_restaurants-us-fayettevillespringdalerogersar_SAMPLE_DIST.csv",
+  "sample_pct": 9.97,
+  "sample_records": 146,
+  "sample_sha256": "bfbb75aa9a3e36a282fd6c46059893852694217039da54bac99e21a6e015a4d8",
+  "sample_size_bytes": 549588,
+  "total_records": 1464,
+  "updated_at": "2026-04-14T19:41:30.912014+00:00"
+}
