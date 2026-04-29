@@ -1,6 +1,6 @@
 # All Restaurants in Fayetteville-Springdale-Rogers (Metro), Arkansas, US
 
-> Free BeamStation sample export with 107 rows and masked direct-contact fields.
+> Free BeamStation sample export with 147 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `874141` |
 | Location | Fayetteville-Springdale-Rogers, AR |
 | Category | Restaurants |
-| Full dataset size | 1,070 records |
-| Free sample size | 107 records (10.0%) |
-| Last export | 2026-04-21T21:40:49.599000+00:00 |
+| Full dataset size | 1,476 records |
+| Free sample size | 147 records (9.96%) |
+| Last export | 2026-04-28T23:55:47.236907+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fayetteville-springdale-rogers-metro-arkansas-us-sample-874141/releases/download/sample-latest/beamstation_874141_restaurants-us-fayettevillespringdalerogersar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
