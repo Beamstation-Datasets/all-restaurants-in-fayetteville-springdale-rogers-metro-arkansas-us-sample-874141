@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c3cab239-bac7-44f8-bfa7-b3726cdbbf5f",
+  "export_job_id": "5468b173-2b7f-49ce-a581-257b3c42fd34",
   "id_short": 874141,
-  "published_at": "2026-04-22T19:05:03Z",
+  "published_at": "2026-04-29T07:54:03Z",
   "repo_name": "all-restaurants-in-fayetteville-springdale-rogers-metro-arkansas-us-sample-874141",
   "sample_asset_name": "beamstation_874141_restaurants-us-fayettevillespringdalerogersar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/874141/beamstation_874141_restaurants-us-fayettevillespringdalerogersar_SAMPLE_DIST.csv",
-  "sample_records": 107,
-  "sample_sha256": "a9c6ceb5aa68eaaa660b8c3263be627abf8d342c2d0e186b9eb34b3f04e6269f",
-  "sample_size_bytes": 418891,
-  "total_records": 1070
+  "sample_records": 147,
+  "sample_sha256": "49b376d72d6a1f61edecdeb2b4e5d550bb7e420f58dee8f795ed08a08fe141bd",
+  "sample_size_bytes": 460152,
+  "total_records": 1476
 }
